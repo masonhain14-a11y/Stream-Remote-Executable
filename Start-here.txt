@@ -1,0 +1,40 @@
+STREAM REMOTE FOR WINDOWS
+
+1. Extract this ZIP. Open "Stream Remote (x64).exe" on a Windows 10 or 11 PC
+   with an Intel or AMD processor. For an ARM-based PC, open
+   "Stream Remote (ARM64).exe". Windows shows the processor type under
+   Settings > System > About > System type.
+2. Keep Stream Remote open. If Windows Firewall asks about access, allow
+   it on your private home network.
+3. Connect your phone and PC to the same home network. Scan the QR code
+   with your phone's camera. You can also type the app's http:// address
+   into Safari or Chrome and enter its six-digit pairing code.
+
+Streaming opens a service in your PC's default browser. Sign in there if
+your service requires it.
+
+Mouse works like a trackpad. Slide one finger to move, tap to click and
+slide two fingers to scroll. Drag holds the left button until you release
+it. Use the pointer speed slider to adjust movement.
+
+Keyboard types in the window that has focus on your PC. Send text sends
+what you wrote in one go. Turn on Live typing to send edits as you type.
+
+Remote provides play/pause, track controls, volume, arrow navigation,
+Enter, browser back, browser fullscreen and Show Desktop. Playback keys
+depend on the active player and its support for Windows media keys.
+
+If your phone cannot connect, check that the PC is awake and that neither
+device is on a guest network. Use the Network menu in Stream Remote to
+try the PC's Wi-Fi or Ethernet address. Type the full http:// address if
+your browser changes it to https://. On managed PCs, an administrator
+may need to allow local network access in Windows Firewall.
+
+Keep the PC signed in and unlocked while using the remote. Windows
+protects the lock screen, security prompts and elevated apps from
+ordinary app input. Use Stream Remote on a trusted home network. Closing
+it stops the server. Reset pairing revokes access for all paired
+browsers and generates a new code.
+
+The Windows executables are unsigned. Windows may show a publisher
+prompt when you open them.
